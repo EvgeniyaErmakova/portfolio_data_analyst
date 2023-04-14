@@ -14,7 +14,7 @@
 
 |№  |Проект             |Описание и инструменты                                    |
 |---|-------------------|----------------------------------------------------------|
-|1  |[Парсер данных для Liveinternet](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%20Liveinternet.ipynb)|Извлечение, сюор и сохранение информации из открытых источников.|
+|1  |[Парсер данных для Liveinternet](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%20Liveinternet.ipynb)|Извлечение, сбор и сохранение информации из открытых источников.|
 |2  |[Анализ поведения пользователей в мобильном приложении](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/Ermakova_E_Final_project_portfolio.ipynb)|Выделение общих сценариев поведения, оценка эффективности разных сценариев, построение воронки. Событийная аналитика.|
 |3  |[Анализ результатов A/B теста для интернет-магазина](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/Ermakova_E_AB_test_online_shop_portfolio.ipynb)|Приоретизация гипотез, оценка проведения A/B теста и полученных результатов.|
 |4 |[Анализ бизнес-показателей приложения](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/Ermakova_E_marketing_research_of_application_portfolio.ipynb)|Когортный анализ, расчет маркетинговых метрик, юнит-экономика.|
