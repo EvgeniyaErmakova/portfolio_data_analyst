@@ -14,7 +14,7 @@
 
 |№  |Проект             |Описание и инструменты                                    |
 |---|-------------------|----------------------------------------------------------|
-|1  |[Исследовательский анализ обращений в Service desk](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/ce836a00a0033bb5b054784a4ee3500d37f6b8af/projects/pyrus_stats.ipynb)|Исследовательский и сравнительный анализ|
+|1  |[Исследовательский анализ обращений в Service desk](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/ce836a00a0033bb5b054784a4ee3500d37f6b8af/projects/pyrus_stats.ipynb)|Исследовательский и сравнительный анализ. Выводы некоторых ячеек скрыты, т.к. содержат персональные данные|
 |1  |[Парсер данных для Liveinternet](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%20Liveinternet.ipynb)|Извлечение, сбор и сохранение информации из открытых источников.|
 |2  |[Анализ поведения пользователей в мобильном приложении](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/Ermakova_E_Final_project_portfolio.ipynb)|Выделение общих сценариев поведения, оценка эффективности разных сценариев, построение воронки. Событийная аналитика.|
 |3  |[Анализ результатов A/B теста для интернет-магазина](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/Ermakova_E_AB_test_online_shop_portfolio.ipynb)|Приоретизация гипотез, оценка проведения A/B теста и полученных результатов.|
