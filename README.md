@@ -14,7 +14,7 @@
 
 |№  |Проект             |Описание и инструменты                                    |
 |---|-------------------|----------------------------------------------------------|
-|1  |[Выгрузка вакансий HeadHunter и анализ доступных данных](https://github.com/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%20HH.ipynb)|Получение открытых данных с сайта HeadHunter по вакансиям, исследовательский анализ доступной информации|
+|1  |[]()||
 |2  |[Выгрузка реестра и анализ обращений в Service desk](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/SD_pyrus_stats%20%281%29.ipynb)|Подключение и выгрузка реестра обращений в техподдержку через открытый API. Преобразование JSON в DataFrame и визуализация полученных данных. Выводы некоторых ячеек скрыты, т.к. содержат персональные данные|
 |3  |[Исследовательский анализ обращений в Service desk](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/ce836a00a0033bb5b054784a4ee3500d37f6b8af/projects/pyrus_stats.ipynb)|Исследовательский и сравнительный анализ. Выводы некоторых ячеек скрыты, т.к. содержат персональные данные|
 |4  |[Парсер данных для Liveinternet](https://nbviewer.org/github/EvgeniyaErmakova/portfolio_data_analyst/blob/main/projects/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%20Liveinternet.ipynb)|Извлечение, сбор и сохранение информации из открытых источников.|
